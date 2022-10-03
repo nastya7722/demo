@@ -1,5 +1,5 @@
 # Twitter Bootstrap
-![twitter logo](https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B8%D1%82%D1%82%D0%B5%D1%80#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Twitter-logo.svg)
+![twitter logo](https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B8%D1%82%D1%82%D0%B5%D1%80#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Twitter-logo.svg);
 **Twitter Bootstrap** - популярный набор компонентов для фронтенд-разработки. Построен на базе следующих технологий:
 * HTML
 * CSS
